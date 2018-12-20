@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Track Saver</string>
+    <string name="title_activity_show_track_maps">Map</string>
+</resources>
